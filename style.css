@@ -1,0 +1,26 @@
+
+
+#carousel {
+	margin: 40px auto;
+	width: 400px;
+	height: 300px;
+	text-align: center;
+	list-style: none;
+	overflow: hidden;
+}
+#carousel ul {
+	width: 2000px;
+	height: 300px;
+	display: block;
+	margin: 0 0;
+	padding: 0 0;
+}
+li {
+	list-style: none;
+	float: left;
+}
+img {
+	width: 394px;
+	height: 294px;
+	border: solid 3px;
+}

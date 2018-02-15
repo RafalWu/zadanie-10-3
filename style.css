@@ -1,4 +1,6 @@
-
+* {
+	box-sizing: border-box;
+}
 
 #carousel {
 	margin: 40px auto;
@@ -7,6 +9,7 @@
 	text-align: center;
 	list-style: none;
 	overflow: hidden;
+	border: solid 3px;
 }
 #carousel ul {
 	width: 2000px;
@@ -20,7 +23,6 @@ li {
 	float: left;
 }
 img {
-	width: 394px;
-	height: 294px;
-	border: solid 3px;
+	width: 400px;
+	height: 300px;
 }
